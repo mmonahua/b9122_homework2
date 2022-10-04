@@ -1,5 +1,6 @@
 # b9122_homework2
 Author: Yimeng Hua
+
 The repository contains two files for web crawling homework.
 
 WebCrawl_covid: Crawl pages whose seed url is the press releases page of the Federal Reserve System:
