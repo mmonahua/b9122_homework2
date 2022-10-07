@@ -6,7 +6,7 @@ seed_url = "https://www8.gsb.columbia.edu"
 
 urls = [seed_url]    #queue of urls to crawl
 seen = [seed_url]    #stack of urls seen so far
-opened = []          #we keep track of seen urls so that we don't revisit them #have visited
+opened = []          #we keep track of seen urls so that we don't revisit them
 
 maxNumUrl = 10; #set the maximum number of urls to visit
 print("Starting with url="+str(urls))
