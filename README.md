@@ -3,6 +3,8 @@ Author: Yimeng Hua
 
 The repository contains two files for web crawling homework.
 
+webcrawler: the sample we used in class
+
 WebCrawl_covid: Crawl pages whose seed url is the press releases page of the Federal Reserve System:
 https://www.federalreserve.gov/newsevents/pressreleases.htm and collect pages that contain the
 word “covid” found within the page. The goal is to collect at least 10 such urls. At the end of the
